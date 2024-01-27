@@ -1,4 +1,5 @@
-public class Main {
+package BinaryTree.LyThuyet;
+public class BinaryMain {
     public static void main(String[] args) {
        MyBST myBST = new MyBST();
 
@@ -10,7 +11,7 @@ public class Main {
         myBST.setRoot(myBST.insertUsingRecursion(myBST.getRoot(),7));
         myBST.setRoot(myBST.insertUsingRecursion(myBST.getRoot(),2));
         myBST.setRoot(myBST.insertUsingRecursion(myBST.getRoot(),4));
-
+////asdsad
        System.out.println("done");
     }
 }

@@ -1,3 +1,5 @@
+package BinaryTree.LyThuyet;
+
 public class MyBinaryTree {
     private TreeNode root;
     public  MyBinaryTree() {
